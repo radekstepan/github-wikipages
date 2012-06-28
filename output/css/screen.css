@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+
+html,body { height:100%; }
+body { font-family:"PT Sans", sans-serif; font-size:62.5%; font-weight:400; color:#333; margin:0; }
+h1 { font-size:2.6em; font-weight:600; margin:1.5em 0 .5em; }
+h2 { font-size:2em; font-weight:500; border-top:3px solid #d6d6d6; margin:1.5em 0 .25em; padding:1em 0 0; }
+h3 { font-size:1.6em; font-weight:500; border-top:1px dashed #c6c6c6; margin:1em 0 .2em; padding:1em 0 0; }
+p { font-size:1.6em; line-height:1.3em; margin:0 0 .5em; }
+ul,ol { font-size:1.6em; list-style-position:outside; margin:.4em 0 0 1.2em; }
+li { line-height:1.2em; margin:.4em 0; }
+li ul,li ol { font-size:1em; margin-top:0; }
+.maruku_toc ul li { line-height:1em; margin:.2em 0; }
+em { font-weight:500; font-style:italic; }
+strong { font-weight:600; }
+
+a:link,a:visited { font-weight:500; color:#007DCC; text-decoration:underline; }
+a:hover { color:#333; border-color:#333; }
+
+.content { padding-bottom:60px; margin:0 60px; }
+.header { font-size:3em; font-weight:500; background-color:#efefef; border-bottom:1px solid #c6c6c6; padding:20px 60px; }
+.header a { color:#000; text-decoration:none; }
+.footer { position:fixed; bottom:0; width:100%; font-size:1.2em; font-weight:400; font-style:italic; height:20px; background-color:#efefef; border-top:1px solid #c6c6c6; padding:10px 60px; }
+
+code { font-family:'Bitstream Vera Sans Mono', Consolas, Courier, monospace; background-color:#eee; font-size:1em; padding:0 .1em; }
+pre { border-top:1px solid #c6c6c6; border-bottom:1px solid #c6c6c6; background-color:#eee; font-size:1.4em; margin:1em 0; padding:1em; }
+pre code { background-color:transparent; padding:0; }
+
+.welcome { font-size:2em; line-height:1.3em; margin:2em 0 1em; }
+.resource-description { font-size:1.8em; line-height:1.2em; margin:1em 0; }
+.example { display:none; }
+.warning { border-top:1px solid #933; border-bottom:1px solid #933; background-color:#e4809a; margin:1em 0; padding:1em; }
+
+a.example-toggle { display:block; font-weight:400; font-size:1.4em; font-style:italic; margin:.2em 0; }
+
+table { width:100%; border-top:1px solid #c6c6c6; border-bottom:1px solid #c6c6c6; background-color:#eee; margin:1em 0; }
+th { font-size:1.6em; font-weight:600; text-align:left; padding:.6em 1em .4em 0; }
+td { font-size:1.6em; line-height:1.3em; padding:0 1em .2em 0; }
+th:first-child,td:first-child { padding-left:.6em; }
+th:last-child,td:last-child { padding-right:.6em; }
+tr:last-child td { padding-bottom:.6em; }

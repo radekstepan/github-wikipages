@@ -1,0 +1,11 @@
+{
+  "name": "github-wikipages",
+  "author": "Radek <dev@radekstepan.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "coffee-script": "latest",
+    "node-markdown": "latest",
+    "eco": "latest"
+  },
+  "private": true
+}
