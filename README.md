@@ -2,7 +2,7 @@
 
 Turn your GitHub wiki into Pages
 
-![image](https://raw.github.com/radekstepan/mistok/master/example.png)
+![image](https://raw.github.com/radekstepan/github-wikipages/master/example.png)
 
 ## Run:
 
