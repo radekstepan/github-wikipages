@@ -24,7 +24,7 @@ Get the latest wiki changes and process the files:
 
 ```bash
 $ ./update.coffee
-```bash
+```
 
 ## Publish:
 
